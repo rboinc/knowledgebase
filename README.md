@@ -1,2 +1,2 @@
-# Knowledgebase
+# Knowledge Base
 OrderForge Knowledge Base
