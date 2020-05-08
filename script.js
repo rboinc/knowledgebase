@@ -1,7 +1,6 @@
 new Docute({
   target: '#docute',
   darkThemeToggler: true,
-  sourcePath: '/',
   nav: [
     {
       title: 'Home',
