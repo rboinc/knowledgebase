@@ -1,6 +1,4 @@
-# OrderForge Knowledge Base
-Repository of OrderForge Knowledge base articles
+# This is page 1
+Test page 1
 
-
-
-*&copy; 2020, RBO Printlogistix. All rights reserved.*
+Blah blah blah!
