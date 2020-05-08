@@ -14,11 +14,11 @@ new Docute({
   ],
   sidebar: [
     {
-      title: 'Guide',
+      title: 'FAQs',
       links: [
         {
-          title: 'Introduction',
-          link: '/introduction'
+          title: 'Page1',
+          link: '/guide/page1'
         },
         {
           title: 'Installation',
