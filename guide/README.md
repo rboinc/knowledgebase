@@ -1,6 +1,2 @@
-# OrderForge Knowledge Base
+# Welcome to the OrderForge Knowlede Base
 Repository of OrderForge Knowledge base articles
-
-
-
-*&copy; 2020, RBO Printlogistix. All rights reserved.*
