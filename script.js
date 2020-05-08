@@ -1,7 +1,7 @@
 new Docute({
   target: '#docute',
   darkThemeToggler: true,
-  sourcePath: '/guide/',
+  sourcePath: '/guide',
   nav: [
     {
       title: 'Home',
@@ -18,7 +18,7 @@ new Docute({
       links: [
         {
           title: 'Page1',
-          link: '/guide/page1'
+          link: '/page1'
         },
         {
           title: 'Installation',
