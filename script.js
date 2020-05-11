@@ -28,7 +28,7 @@ new Docute({
           title: 'Installation',
           link: '/installation'
         }
-      ],
+      ]
     }
   ]
 })
