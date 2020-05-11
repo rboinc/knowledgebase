@@ -21,10 +21,14 @@ new Docute({
           link: '/page1'
         },
         {
+          title: 'Page2',
+          link: '/page2'
+        },
+        {
           title: 'Installation',
           link: '/installation'
         }
-      ]
+      ],
     }
   ]
 })
