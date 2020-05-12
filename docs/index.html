@@ -13,6 +13,22 @@
     window.$docsify = {
       auto2top: true,
       basePath: '/docs/',
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      name: 'OrderForge Knowledge Base',
+      search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
