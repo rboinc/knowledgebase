@@ -1,7 +1,7 @@
 # OrderForge Knowledge Base
 Repository of OrderForge Knowledge base articles
 
-The public site is generated using [Docute](https://docute.org/).  
+The public site is generated using [Docsify](https://docsify.js.org/).  
 Reference the Docute documentation on how to customize, and maintain the site.
 
 For Markdown guide, reference [Markdown Guide's Basic Syntax](https://www.markdownguide.org/basic-syntax/) to learn how to format your markdown page.
