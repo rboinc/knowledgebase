@@ -29,7 +29,7 @@ new Docute({
   plugins: [
     searchBar(SearchResult)
 ],
-editLinkBase: 'https://github.com/rboinc/rboinc.github.io/tree/master/guide',
+editLinkBase: 'https://github.com/rboinc/rboinc.github.io/blob/master/guide',
   nav: [
     {
       title: 'Home',
