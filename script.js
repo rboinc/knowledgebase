@@ -1,7 +1,7 @@
 var SearchResult = [
-  {title: 'Title', link: 'title1', label: 'Label is optional', description: 'Description is optional'},
-  {title: 'Another', link: 'another'},
-  {title: 'One more', link: 'one-more'},
+  {title: 'page 1', link: '/page1', label: 'Label is optional', description: 'Description is optional'},
+  {title: 'page 2', link: '/page2'},
+  {title: 'Search not', link: 'working'},
 
 ];
 
