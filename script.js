@@ -29,6 +29,9 @@ new Docute({
   plugins: [
     searchBar(SearchResult)
 ],
+router: {
+  mode: 'history'
+},
   nav: [
     {
       title: 'Home',
