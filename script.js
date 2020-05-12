@@ -2,6 +2,9 @@ new Docute({
   target: '#docute',
   darkThemeToggler: true,
   sourcePath: '/guide',
+  plugins: [
+    searchBar(SearchResult)
+  ],
   nav: [
     {
       title: 'Home',
@@ -9,7 +12,7 @@ new Docute({
     },
     {
       title: 'About',
-      link: '/about'
+      link: '/guide/about'
     }
   ],
   sidebar: [
@@ -28,7 +31,7 @@ new Docute({
           title: 'Installation',
           link: '/installation'
         }
-      ],
+      ]
     }
   ]
 })
