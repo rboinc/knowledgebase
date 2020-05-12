@@ -23,12 +23,13 @@ const searchBar = entries => {
 
 new Docute({
   target: '#docute',
-  title: 'RBO OrderForge Knowledge Base'
+  title: 'RBO OrderForge Knowledge Base',
   darkThemeToggler: true,
   sourcePath: '/guide',
   plugins: [
     searchBar(SearchResult)
 ],
+editLinkBase: 'https://github.com/rboinc/rboinc.github.io/blob/master/guide',
   nav: [
     {
       title: 'Home',
