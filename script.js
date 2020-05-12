@@ -1,8 +1,8 @@
 var SearchResult = [
-  {title: 'page 1', link: '/page1', label: 'Label is optional', description: 'Description is optional'},
-  {title: 'page 2', link: '/page2'},
-  {title: 'Search not', link: 'working'},
-
+  {title: 'Home', link: '/'/*, label: 'Label is optional', description: 'Description is optional'*/},
+  {title: 'About', link: '/about'},
+  {title: 'Page 1', link: '/page1'},
+  {title: 'Page 2', link: '/page2'},
 ];
 
 const searchBar = entries => {
