@@ -18,17 +18,27 @@
       maxLevel: 4,
       subMaxLevel: 2,
       name: 'OrderForge Knowledge Base',
+      search: 'auto', // default
+      search : [
+      '/',
+      '/docs/',
+      '/docs/FAQs/',
+      '/docs/Orders/',
+      ],
+
+      // complete configuration parameters
       search: {
-        noData: {
-          '/': 'No results!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/': 'Search'
-        }
-      },
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-    }
+         maxAge: 86400000, // Expiration time, the default one day
+         paths: [], // or 'auto'
+         placeholder: 'Type to search',
+         noData: 'No Results!',
+
+         // Headline depth, 1 - 6
+         depth: 2,
+         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+       },
+       formatUpdated: 'Last updated: {MM}/{DD} {HH}:{mm}',
+     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
