@@ -1,11 +1,11 @@
 - FAQs
 
-  - [Page 1](Page1.md)
-  - [Page 2](Page2.md)
+  - [Page 1](/FAQs/Page1.md)
+  - [Page 2](/FAQs/Page2.md)
 
 - Orders
 
-  - [Create Orders](createorder.md)
+  - [Create Orders](/Orders/createorder.md)
 
 - Purchase Orders
 
