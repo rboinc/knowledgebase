@@ -13,7 +13,6 @@
   - [Offline Mode(PWA)](pwa.md)
   - [Server-Side Rendering(SSR)](ssr.md)
   - [Embed Files](embed-files.md)
-
 - **Other Links**
 - [GitHub](https://github.com/jthegedus/docsify-select)
 - [npm](https://www.npmjs.com/package/docsify-select)
