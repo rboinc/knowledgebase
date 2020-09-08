@@ -110,5 +110,3 @@ Payment Types – see below
 Payment Types – choosing Purchase Order payment type will allow you to process the order as a normal purchase. Credit Card payment type will require you to enter the customer’s credit card information at the time you place the order.
 
 After this screen information has been captured hit Submit Order button to process the order OR you can Save Order and process at a later time.
-
-Created with Microsoft OneNote 2016.
