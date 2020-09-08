@@ -25,12 +25,9 @@
       subMaxLevel: 2,
       name: 'OrderForge Knowledge Base',
       search: {
-         paths: [
-            '/Page1',
-            '/Page2',
-            '/createorder'], // or 'auto'
+         paths: 'auto',
          placeholder: 'Type to search',
-         noData: 'No Results!',
+         noData: 'No Results Found',
          depth: 2,
          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
        },
@@ -38,8 +35,8 @@
 	  pagination: {
          previousText: 'Previous',
          nextText: 'Next',
-         crossChapter: true,
-         crossChapterText: true,
+         crossChapter: false,
+         crossChapterText: false,
       },
      }
   </script>
