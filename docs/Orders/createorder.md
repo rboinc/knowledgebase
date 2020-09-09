@@ -25,9 +25,7 @@ You can save your order (Saved order button) at any time when processing and ret
 
 **External id** – product you are ordering
 
-**Quantity**
-
-**Avail** – inventory level available
+**Quantity Avail** – inventory level available
 
 **Unit of issue**
 
