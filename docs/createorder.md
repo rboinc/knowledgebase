@@ -1,12 +1,13 @@
 # Create Order
 {docsify-updated}
+Overview of the Create Order Process
 
-
-![header](./_images/CreateOrder/CreateOrder.png)
 
 
 
 ## Header tab
+
+![header](./_images/CreateOrder/CreateOrder.png)
 
 Choose purchasing organization (Customer) - choose bill to and ship to (create if necessary – your new address will only be available from manual order entry view – must add to OrderForge store front if needed there) – Customer reference is designated at an order level (use for Customer PO#)
 
@@ -14,10 +15,8 @@ You can save your order (Saved order button) at any time when processing and ret
 
 
 
-![orderlines](./_images/CreateOrder/CreateOrder1.png)
-
-
 ## Order Lines tab
+![orderlines](./_images/CreateOrder/CreateOrder1.png)
 
 **Search products** – search for existing products setup – you can **clone** (button at bottom of screen) that product and save using your customer’s product naming convention……example: DEMO02 pull product and clone then save under product # TEST022 - #10 LH Envelope. Then you can make any changes you want to the product you created.
 
@@ -91,15 +90,15 @@ This shows a PO will generate to ABC Vendor 1st and RBO DOC 2nd. Costs can be ad
 
 When completing details in all three tabs – Specifications, Custom Fields/Notes, Workflow – you need to make sure and select Update for that product line to complete the additions or changes for that product.
 
-![customfields](./_images/CreateOrder/CreateOrder11.png)
 
 ## Custom Fields/Notes
+![customfields](./_images/CreateOrder/CreateOrder11.png)
 
 this tab is used to document order information at an order level – you can choose multiple note types (just like you do at a product level) to indicate instructions within an order – the order notes is where you type your comments – when finished click the button called Add Note
 
-![shipping](./_images/CreateOrder/CreateOrder12.png)
 
 ## Shipping/Payments
+![shipping](./_images/CreateOrder/CreateOrder12.png)
 
 This tab allows you to choose your shipping method (these methods showing above have been set up specifically for this customer’s account) - each purchasing organization will need shipping methods added at the time they are setup in OrderForge – Spending account is a special option available if the purchasing organization has requested this functionality
 
