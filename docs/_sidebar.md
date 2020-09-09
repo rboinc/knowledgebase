@@ -1,7 +1,7 @@
 - FAQs and General Info
   - [Page 1](Page1.md)
 - Orders
-  - [Create Order](createorder.md)
+  - [Create Order](Orders/createorder.md)
 - Purchase Orders
   - [test](test.md)
 - Inventory
