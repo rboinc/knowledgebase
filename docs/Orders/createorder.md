@@ -8,7 +8,7 @@ Overview of the Create Order Process
 
 ## Header tab
 
-![header](./_images/CreateOrder/CreateOrder.png)
+![header](../_images/CreateOrder/CreateOrder.png)
 
 Choose purchasing organization (Customer) - choose bill to and ship to (create if necessary – your new address will only be available from manual order entry view – must add to OrderForge store front if needed there) – Customer reference is designated at an order level (use for Customer PO#)
 
